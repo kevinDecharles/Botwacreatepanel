@@ -48,7 +48,7 @@ global.author = "𝐈 𝐧 𝐮 𝐦 𝐚 𝐤 𝐢"
 global.creator = "6281274016808@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
-global.running = "termux"
+global.running = "Panel Pterodactyl"
 //media target
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
